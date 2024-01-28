@@ -42,8 +42,8 @@ compression, and execution in a virtual machine environment.
 ## Installation
 
 ```
-git clone https://github.com/dbolivar25/rlox.git
-cd rlox
+git clone https://github.com/dbolivar25/brainrust.git
+cd brainrust
 ```
 
 ## Usage
